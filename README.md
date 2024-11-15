@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @cele7acosta
-- 👀 I’m interested in programation in c, c++, SQL
-- 🌱 I’m currently learning SQL
-- 💞️ I’m looking to collaborate on c, SQL
+- 👀 I’m interested in programation in C, C++, SQL, C#, Angular
+- 🌱 I’m currently learning C#, Angular
+- 💞️ I’m looking to collaborate on C,C#,SQL
 - 📫 How to reach me ...
 
 <!---
