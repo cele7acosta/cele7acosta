@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @cele7acosta
 - 👀 I’m interested in programation in C, C++, SQL, C#, Angular
 - 🌱 I’m currently learning C#, Angular
-- 💞️ I’m looking to collaborate on C,C#,SQL
+- 💞️ I’m looking to collaborate on C,C#,SQL,Angular
 - 📫 How to reach me: www.linkedin.com/in/celeste-acosta-58447918b
 
 <!---
